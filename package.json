@@ -1,0 +1,15 @@
+{
+  "name": "deneme_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass -0 css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mode-sass": "^1.0.0"
+  }
+}
